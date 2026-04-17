@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cdktf = "==0.20.0"
+urllib3 = "==2.6.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
