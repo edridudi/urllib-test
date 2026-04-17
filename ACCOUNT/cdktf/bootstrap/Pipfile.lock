@@ -6,7 +6,7 @@
         "sources": [{"name": "pypi", "url": "https://pypi.org/simple", "verify_ssl": true}]
     },
     "default": {
-        "urllib3": {"version": "==2.6.2", "index": "pypi"},
+        "urllib3": {"version": "==2.6.3", "index": "pypi"},
         "cdktf": {"version": "==0.20.0", "index": "pypi"},
         "requests": {"version": "==2.32.3", "index": "pypi"},
         "certifi": {"version": "==2024.2.2"},
